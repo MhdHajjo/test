@@ -1,0 +1,3 @@
+runnable\TestHibernate.class
+entities\UsersEntity.class
+persistence\HibernateUtil.class
